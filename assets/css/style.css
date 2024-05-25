@@ -1,3 +1,7 @@
+.body {
+  background-color: black;
+}
+
 .profile-pic {
   position: relative;
   max-width:130px;
